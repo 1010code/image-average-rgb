@@ -80,6 +80,8 @@ if (img.complete) {
 }
 ```
 
+[Demo 網頁](https://1010code.github.io/image-average-rgb/)
+
 
 ## Reference 
 - [stackoverflow](https://stackoverflow.com/questions/2541481/get-average-color-of-image-via-javascript)
