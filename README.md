@@ -58,7 +58,7 @@ document.body.style.backgroundColor = 'rgb('+rgb.r+','+rgb.g+','+rgb.b+')';
 ```
 
 ## 方法二 (採第三方套件)
-這裡我們使用別人開源的 `COLOR THIEF` 函式庫，在 GitHub 有提供 CDN 與 NPM 下載方式。
+這裡我們使用開源的 [COLOR THIEF](https://lokeshdhakar.com/projects/color-thief/) 函式庫，在 GitHub 有提供 CDN 與 NPM 下載方式。
 
 ### CDN
 ```html
